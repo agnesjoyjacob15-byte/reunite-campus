@@ -1,0 +1,11 @@
+node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+.local-data/
+.qa/
+*.log
+*.tsbuildinfo
+*.zip
+Final_Project_Submission/
